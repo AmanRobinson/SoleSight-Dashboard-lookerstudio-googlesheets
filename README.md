@@ -13,7 +13,7 @@
 ---
 
 ### 📸 Dashboard Preview
-![SoleSight Dashboard Screenshot](SoleSight.jpg) 
+![SoleSight Dashboard Screenshot](SoleSight.jpeg) 
 *Interactive visualization of sales trends, regional profitability, and product demand.*
 
 ---
